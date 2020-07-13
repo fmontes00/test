@@ -7,7 +7,7 @@ thems = ['strings', 'functions', 'lists', 'tuples',
    'list_comprehension', 'exceptions', 'OOP_methods',
     'class_attributes', 'hasattr', 'getattr', 'setattr',
     'magic_methods', 'inherence', 'polymorphism', 
-    'file_managment', ]
+    'file_managment','NEW_ELEMENT' ]
 
 def select_random(list_of_thems):
     elem = choice(list_of_thems)
